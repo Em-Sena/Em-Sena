@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Em-Sena
 - 👀 I’m interested in Data Science and Backend Engineering
-- 🌱 I’m currently learning Python and the Basics of Banckend
+- 🌱 I’m currently learning Python and the Basics of Backend
 - 💞️ I’m not looking to collaborate yet(beginner here)
 - 📫 How to reach me @nineties_reject on Twitter
 
